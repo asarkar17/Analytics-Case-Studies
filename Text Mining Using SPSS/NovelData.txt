@@ -1,0 +1,79 @@
+Analysis
+Fields
+	Target
+	Inputs
+Build Settings
+	Use partitioned data: false
+	Text field: NovelData
+	Document type: Full Text
+	Textual unity: Document mode
+	Minimum: 1
+	Maximum: 300
+	Partition mode: false
+	XML Text Formatting: 
+	Structured Text Formatting: 
+	Use model name: true
+	Model name: Model - Novel Data
+	Use partitioned data: false
+	Mode: 
+	Use saved interactive session: false
+	Begin workbench by: 
+	Model type: 
+	Top concepts: 500
+	Check top concepts: 75
+	Uncheck top concepts: 95
+	Use check top concepts: false
+	Optimise for speed of scoring: true
+	Use uncheck top concepts: false
+	Language field: en
+	Template name: Basic Resources (English)
+	Load: true
+	Reuse cached data and results: false
+	Create categories technique type: 
+	Concept derivation: true
+	Concept inclusion: true
+	Semantic network: true
+	Semantic network profile: 
+	Cooccurrence rules: false
+	Type Frequency N: 50
+	Maximum Category N: 50
+	Apply Techniques: 
+	Top Concept N: 5,000
+	Top Percentage N: 20
+	Maximum categories per concept: 1
+	Minimum concepts per category: 2
+	Maximum concepts per category: 50
+	Minimum link value percent: 20
+	Maximum number concept per cooccurrence: 3
+	Use doc limit for co-occurrence rules: true
+	Maximum number of docs to use for calculating co-occurrence rules: 5,000
+	Limit extraction to concepts with a global frequency of at least: 1
+	Accommodate punctuation errors: true
+	Accommodate spelling for a minimum word character length of: false
+	Spelling limit: 5
+	Extract uniterms: true
+	Extract nonlinguistic entities: true
+	Uppercase algorithm: true
+	Group partial and full person names together when possible: false
+	Maximum nonfunction word permutation: 3
+	Use derivation when grouping multiterms: true
+	uncover concepts and patterns through sentiments: 0
+	sentiment mode to apply: 1
+	Content selection method: None
+	Discard short lines: false
+	Discard lines with short words: false
+	Discard lines with single character words: false
+	Minimum number of words: 10
+	Minimum average word length: 3
+	Maximum proportion SCW (%): 33
+	Discard lines containing specific tages: false
+	Discard lines containing specific words: false
+	Tags: SCRIPT,STYLE,LI,IFRAME,A
+	Words: Copyright,(c)
+Training Summary
+	Algorithm: (?)
+	Model type: Classification
+	Stream: Stream2
+	User: ayans
+	Date built: 5/12/19 12:01 AM
+	Application: IBM® SPSS® Modeler 18.2

@@ -1,0 +1,27 @@
+Group 1: Testing Equality Of Factor Structures
+
+Model B: Factor Loadings Invariant
+
+Observed Variables: VERBAL40 VERBAL50 MATH35 MATH25
+
+Covariance Matrix from File EX10.COV
+
+Sample Size = 865
+
+Latent Variables: Verbal Math
+
+Relationships:
+   VERBAL40 VERBAL50 = Verbal
+   MATH35 MATH25 = Math
+
+Group 2: Testing Equality Of Factor Structures
+
+Covariance Matrix from File EX10.COV
+
+Sample Size = 900
+
+Set the Error Variances of VERBAL40 - MATH25 free
+
+Path Diagram
+End of Problem
+

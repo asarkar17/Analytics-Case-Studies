@@ -1,0 +1,22 @@
+Regression using Fitness variables
+  
+ Observed variables: EXERCISE HARDINESS FITNESS STRESS ILLNESS
+  
+ Means: 40.90 0.00 67.10 4.80 716.70
+  
+ Correlation Matrix:
+ 1.00
+ -.03 1.00
+ 0.39 0.07 1.00
+ -.05 -.23 -.13 1.00
+ -.08 -.16 -.29 0.34 1.00
+  
+ Sample Size: 373
+  
+ Relations
+ 
+  
+ options: mi rs
+ number of decimals=3
+ path diagram
+ End of Problem
